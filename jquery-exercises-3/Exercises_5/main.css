@@ -1,0 +1,15 @@
+.field {
+    position: relative;
+    height: 400px;
+    background-color: red;
+
+}
+
+.square {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    top: 200px;
+    left: 500px;
+}
